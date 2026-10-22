@@ -1,0 +1,31 @@
+# Publica uma versão nova sempre que os arquivos em arquivos/ mudam.
+# O link de download fica sempre o mesmo (sempre a versão mais nova):
+#   https://github.com/cebratelli-bot/reflex-download/releases/latest/download/Reflex-Setup.exe
+#   https://github.com/cebratelli-bot/reflex-download/releases/latest/download/Reflex.dmg
+name: Publicar versão
+
+on:
+  push:
+    branches: [main]
+    paths: ['arquivos/**', 'versao.txt']
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  publicar:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+      - name: Criar ou atualizar a versão
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          V="v$(tr -d '[:space:]' < versao.txt)"
+          if gh release view "$V" >/dev/null 2>&1; then
+            gh release upload "$V" arquivos/* --clobber
+          else
+            gh release create "$V" arquivos/* --title "Reflex $V" --latest \
+              --notes "Baixe o Reflex para o seu computador. O app do celular está na Google Play Store."
+          fi
