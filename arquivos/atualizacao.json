@@ -1,9 +1,1 @@
-{
-  "windows_versao": "1.7.2",
-  "windows_url": "https://github.com/cebratelli-bot/reflex-download/releases/download/v1.7.2/Reflex-Setup.exe",
-  "android_codigo": 12,
-  "android_versao": "1.7.2",
-  "android_url": "https://github.com/cebratelli-bot/reflex-download/releases/download/v1.7.2/Reflex-Android.apk",
-  "novidades": "Novo visual no celular, atualização automática e correções.",
-  "novidades_en": "New phone design, automatic updates and fixes."
-}
+{"windows_versao":"1.7.3","windows_url":"https://github.com/cebratelli-bot/reflex-download/releases/download/v1.7.3/Reflex-Setup.exe","android_codigo":12,"android_versao":"1.7.2","android_url":"https://github.com/cebratelli-bot/reflex-download/releases/download/v1.7.3/Reflex-Android.apk","novidades":"Agora o Reflex avisa quando foi atualizado.","novidades_en":"Reflex now tells you when it has been updated."}
