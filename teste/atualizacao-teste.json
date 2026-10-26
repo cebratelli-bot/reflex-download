@@ -1,9 +1,0 @@
-{
-  "windows_versao": "9.9.9",
-  "windows_url": "https://github.com/cebratelli-bot/reflex-download/releases/download/v1.7.0/Reflex-Setup.exe",
-  "android_codigo": 999,
-  "android_versao": "9.9.9",
-  "android_url": "https://github.com/cebratelli-bot/reflex-download/releases/download/v1.7.0/Reflex-Android.apk",
-  "novidades": "Teste do atualizador.",
-  "novidades_en": "Updater test."
-}
