@@ -11,7 +11,7 @@ Espelhe a tela e o som do celular Android no computador e na TV, pelo Wi-Fi, sem
 
 **Instalar o APK no Android:** abra o arquivo baixado e, se o Android pedir, permita instalar apps desta fonte.
 
-**Atualizações:** a partir da versão 1.7.3, o Reflex instalado por aqui avisa quando sai uma versão nova e se atualiza com um clique (no celular, o Android pede um toque em *Atualizar*).
+**Atualizações:** a partir da versão 1.7.4, o Reflex instalado por aqui avisa quando sai uma versão nova e se atualiza com um clique (no celular, o Android pede um toque em *Atualizar*).
 
 **Ver o PC no celular:** no PC, abra o Reflex e clique em *Transmitir este PC*; no celular, toque em *Receber a tela*.
 
