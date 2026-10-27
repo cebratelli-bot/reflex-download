@@ -28,7 +28,7 @@ Os links sempre baixam a versão mais nova. Depois de instalado, o Reflex se atu
 
 **Na TV (Fire TV Stick)**
 1. Instale o app gratuito *Downloader* pela loja da Amazon.
-2. Em *Configurações > Minha Fire TV > Opções do desenvolvedor*, permita instalar apps do *Downloader*.
+2. Em *Configurações > Minha Fire TV > Opções do desenvolvedor*, permita instalar apps do *Downloader*. Se *Opções do desenvolvedor* não aparecer, entre em *Minha Fire TV > Sobre* e clique 7 vezes no nome do aparelho.
 3. No Downloader, digite **is.gd/reflextv** e instale.
 
 ## Como usar
