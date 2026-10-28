@@ -37,4 +37,8 @@ Deixe o celular e o PC (ou a TV) no **mesmo Wi-Fi**, abra o Reflex nos dois e to
 
 Para **ver o PC no celular**: no PC, clique em *Transmitir este PC*; no celular, toque em *Receber a tela*.
 
+## Redes sociais
+
+<p><a href="https://www.instagram.com/app.reflex/"><b>📷 Siga o Reflex no Instagram: @app.reflex</b></a></p>
+
 [Política de Privacidade](PRIVACIDADE.md)
