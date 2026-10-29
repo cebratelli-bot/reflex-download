@@ -2,6 +2,15 @@
 
 O que mudou em cada versão. O Reflex mostra isto sozinho depois de cada atualização, e também em *Configurações > Novidades* no celular e no PC.
 
+## Versão 1.13.0 (29/10/2026)
+
+- Controles de jogo no estilo dos emuladores: joystick (WASD ou setas), toque repetido, deslizar, zoom de pinça, olhar ao redor, habilidade de MOBA e mira com o mouse.
+- Editor novo: arraste os controles de um painel para cima do jogo, clique para trocar a tecla e use a roda do mouse para mudar o tamanho.
+- Modelos prontos para jogos de tiro, MOBA, corrida infinita, carros e ação. Free Fire, PUBG, CoD, Mobile Legends, Subway Surfers e outros já abrem com as teclas no lugar.
+- Vários esquemas de teclas por jogo, e dá para exportar e importar para trocar com os amigos.
+- Escolha se as teclas aparecem fortes, fracas ou escondidas na tela enquanto joga (Gamer > Teclas na tela).
+- Os controles respondem mais rápido e de forma mais regular.
+
 ## Versão 1.12.0 (29/10/2026)
 
 - Celular como webcam do PC: abra Modos > Webcam do PC no celular e escolha "Reflex Câmera" no Zoom, Teams, Meet, OBS ou Discord.
