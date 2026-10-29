@@ -14,6 +14,16 @@
 
 Os links sempre baixam a versão mais nova. Depois de instalado, o Reflex se atualiza sozinho.
 
+## Novidades da versão 1.12.0
+
+- Celular como webcam do PC: abra Modos > Webcam do PC no celular e escolha "Reflex Câmera" no Zoom, Teams, Meet, OBS ou Discord.
+- Câmera da frente ou de trás, HD 720p ou Full HD 1080p, e a imagem fica de pé sozinha quando você vira o celular.
+- No PC, a janela da webcam tem botões para trocar a câmera, girar e espelhar a imagem.
+- A tela do celular pode ficar escura enquanto ele é a webcam, para gastar menos bateria.
+- Novidades: esta tela aparece depois de cada atualização e fica nas Configurações.
+
+Veja o que mudou em todas as versões em [NOVIDADES.md](NOVIDADES.md).
+
 ## Como instalar
 
 **No celular**
