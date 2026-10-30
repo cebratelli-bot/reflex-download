@@ -2,6 +2,13 @@
 
 O que mudou em cada versão. O Reflex mostra isto sozinho depois de cada atualização, e também em *Configurações > Novidades* no celular e no PC.
 
+## Versão 1.13.1 (30/10/2026)
+
+- Resposta mais rápida: ao arrastar ou rolar com o mouse, o dedo anda junto no celular na hora, em vez de esperar você soltar o botão.
+- A imagem volta ao tempo real mais cedo quando o Wi-Fi atrasa, e com as teclas do jogo ligadas o modo de baixa latência liga sozinho.
+- Teclas na tela com visual novo: redondas e discretas, com o mouse desenhado e sem textos por cima do jogo.
+- Avisos mais curtos.
+
 ## Versão 1.13.0 (29/10/2026)
 
 - Controles de jogo no estilo dos emuladores: joystick (WASD ou setas), toque repetido, deslizar, zoom de pinça, olhar ao redor, habilidade de MOBA e mira com o mouse.
