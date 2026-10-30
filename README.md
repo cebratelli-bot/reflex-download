@@ -14,12 +14,11 @@
 
 Os links sempre baixam a versão mais nova. Depois de instalado, o Reflex se atualiza sozinho.
 
-## Novidades da versão 1.13.1
+## Novidades da versão 1.14.0
 
-- Resposta mais rápida: ao arrastar ou rolar com o mouse, o dedo anda junto no celular na hora, em vez de esperar você soltar o botão.
-- A imagem volta ao tempo real mais cedo quando o Wi-Fi atrasa, e com as teclas do jogo ligadas o modo de baixa latência liga sozinho.
-- Teclas na tela com visual novo: redondas e discretas, com o mouse desenhado e sem textos por cima do jogo.
-- Avisos mais curtos.
+- Menus novos no PC: escuros, com cantos redondos, atalhos à mostra e explicações curtas embaixo de cada opção, no lugar do menu cinza do Windows.
+- O modo Reunião saiu do app para deixar tudo mais simples.
+- A webcam do PC ganhou um lugar próprio na aba Modos do celular.
 
 Veja o que mudou em todas as versões em [NOVIDADES.md](NOVIDADES.md).
 

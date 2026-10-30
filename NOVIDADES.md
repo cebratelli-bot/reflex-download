@@ -2,6 +2,12 @@
 
 O que mudou em cada versão. O Reflex mostra isto sozinho depois de cada atualização, e também em *Configurações > Novidades* no celular e no PC.
 
+## Versão 1.14.0 (30/10/2026)
+
+- Menus novos no PC: escuros, com cantos redondos, atalhos à mostra e explicações curtas embaixo de cada opção, no lugar do menu cinza do Windows.
+- O modo Reunião saiu do app para deixar tudo mais simples.
+- A webcam do PC ganhou um lugar próprio na aba Modos do celular.
+
 ## Versão 1.13.1 (30/10/2026)
 
 - Resposta mais rápida: ao arrastar ou rolar com o mouse, o dedo anda junto no celular na hora, em vez de esperar você soltar o botão.
