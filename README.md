@@ -14,14 +14,12 @@
 
 Os links sempre baixam a versão mais nova. Depois de instalado, o Reflex se atualiza sozinho.
 
-## Novidades da versão 1.13.0
+## Novidades da versão 1.13.1
 
-- Controles de jogo no estilo dos emuladores: joystick (WASD ou setas), toque repetido, deslizar, zoom de pinça, olhar ao redor, habilidade de MOBA e mira com o mouse.
-- Editor novo: arraste os controles de um painel para cima do jogo, clique para trocar a tecla e use a roda do mouse para mudar o tamanho.
-- Modelos prontos para jogos de tiro, MOBA, corrida infinita, carros e ação. Free Fire, PUBG, CoD, Mobile Legends, Subway Surfers e outros já abrem com as teclas no lugar.
-- Vários esquemas de teclas por jogo, e dá para exportar e importar para trocar com os amigos.
-- Escolha se as teclas aparecem fortes, fracas ou escondidas na tela enquanto joga (Gamer > Teclas na tela).
-- Os controles respondem mais rápido e de forma mais regular.
+- Resposta mais rápida: ao arrastar ou rolar com o mouse, o dedo anda junto no celular na hora, em vez de esperar você soltar o botão.
+- A imagem volta ao tempo real mais cedo quando o Wi-Fi atrasa, e com as teclas do jogo ligadas o modo de baixa latência liga sozinho.
+- Teclas na tela com visual novo: redondas e discretas, com o mouse desenhado e sem textos por cima do jogo.
+- Avisos mais curtos.
 
 Veja o que mudou em todas as versões em [NOVIDADES.md](NOVIDADES.md).
 
