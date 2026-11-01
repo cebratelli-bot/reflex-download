@@ -2,6 +2,12 @@
 
 O que mudou em cada versão. O Reflex mostra isto sozinho depois de cada atualização, e também em *Configurações > Novidades* no celular e no PC.
 
+## Versão 1.15.0 (01/11/2026)
+
+- Chegou o Reflex Pro: espelhe em Full HD 1080p ou na qualidade Máxima, quase sem compressão.
+- Experimente o Pro por 7 dias grátis. Assine pela aba Pro, no celular, pelo Google Play.
+- O plano grátis continua espelhando em HD 720p, com som, controle pelo PC, TV, Modo Gamer, webcam e todo o resto.
+
 ## Versão 1.14.0 (30/10/2026)
 
 - Menus novos no PC: escuros, com cantos redondos, atalhos à mostra e explicações curtas embaixo de cada opção, no lugar do menu cinza do Windows.
