@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cebratelli-bot.github.io/reflex-download/sitemap.xml
