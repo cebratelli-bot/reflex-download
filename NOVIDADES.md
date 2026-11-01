@@ -2,11 +2,15 @@
 
 O que mudou em cada versão. O Reflex mostra isto sozinho depois de cada atualização, e também em *Configurações > Novidades* no celular e no PC.
 
+## Versão 1.15.1 (01/11/2026)
+
+- A webcam do PC saiu do app para deixar tudo mais simples. A aba Modos agora é só do Modo Gamer.
+
 ## Versão 1.15.0 (01/11/2026)
 
 - Chegou o Reflex Pro: espelhe em Full HD 1080p ou na qualidade Máxima, quase sem compressão.
 - Experimente o Pro por 7 dias grátis. Assine pela aba Pro, no celular, pelo Google Play.
-- O plano grátis continua espelhando em HD 720p, com som, controle pelo PC, TV, Modo Gamer, webcam e todo o resto.
+- O plano grátis continua espelhando em HD 720p, com som, controle pelo PC, TV, Modo Gamer e todo o resto.
 
 ## Versão 1.14.0 (30/10/2026)
 
