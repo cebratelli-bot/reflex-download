@@ -2,6 +2,17 @@
 
 O que mudou em cada versão. O Reflex mostra isto sozinho depois de cada atualização, e também em *Configurações > Novidades* no celular e no PC.
 
+## Versão 1.15.4 (02/11/2026)
+
+- Ganhou um código do Reflex Pro? Resgate na aba Pro, em *Tenho um código*, e use o Full HD e a qualidade Máxima por 1 ano.
+- Compras do Pro mais seguras: cada assinatura é conferida com o Google Play.
+
+## Versão 1.15.3 (02/11/2026)
+
+- Melhor em tablets e celulares dobráveis: o leitor de QR code gira junto com a tela.
+- Visual de ponta a ponta no Android 15 e 16, com os botões longe das barras do sistema.
+- App mais leve e rápido de abrir.
+
 ## Versão 1.15.1 (01/11/2026)
 
 - A webcam do PC saiu do app para deixar tudo mais simples. A aba Modos agora é só do Modo Gamer.
