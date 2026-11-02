@@ -14,11 +14,10 @@
 
 Os links sempre baixam a versão mais nova. Depois de instalado, o Reflex se atualiza sozinho.
 
-## Novidades da versão 1.14.0
+## Novidades da versão 1.15.4
 
-- Menus novos no PC: escuros, com cantos redondos, atalhos à mostra e explicações curtas embaixo de cada opção, no lugar do menu cinza do Windows.
-- O modo Reunião saiu do app para deixar tudo mais simples.
-- A webcam do PC ganhou um lugar próprio na aba Modos do celular.
+- Ganhou um código do Reflex Pro? Resgate na aba Pro, em *Tenho um código*, e use o Full HD e a qualidade Máxima por 1 ano.
+- Melhor em tablets e celulares dobráveis, e visual de ponta a ponta no Android 15 e 16.
 
 Veja o que mudou em todas as versões em [NOVIDADES.md](NOVIDADES.md).
 
