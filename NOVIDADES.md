@@ -2,6 +2,11 @@
 
 O que mudou em cada versão. O Reflex mostra isto sozinho depois de cada atualização, e também em *Configurações > Novidades* no celular e no PC.
 
+## Versão 1.15.5 (03/11/2026)
+
+- Ajuste para a Play Store: o app declara de forma explícita que não usa o ID de publicidade do aparelho.
+- Removido um texto antigo sobre anúncios. O Reflex não tem anúncios.
+
 ## Versão 1.15.4 (02/11/2026)
 
 - Ganhou um código do Reflex Pro? Resgate na aba Pro, em *Tenho um código*, e use o Full HD e a qualidade Máxima por 1 ano.

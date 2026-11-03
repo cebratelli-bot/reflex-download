@@ -14,10 +14,10 @@
 
 Os links sempre baixam a versão mais nova. Depois de instalado, o Reflex se atualiza sozinho.
 
-## Novidades da versão 1.15.4
+## Novidades da versão 1.15.5
 
-- Ganhou um código do Reflex Pro? Resgate na aba Pro, em *Tenho um código*, e use o Full HD e a qualidade Máxima por 1 ano.
-- Melhor em tablets e celulares dobráveis, e visual de ponta a ponta no Android 15 e 16.
+- Ajuste para a Play Store: o app declara de forma explícita que não usa o ID de publicidade do aparelho.
+- Removido um texto antigo sobre anúncios. O Reflex não tem anúncios.
 
 Veja o que mudou em todas as versões em [NOVIDADES.md](NOVIDADES.md).
 
