@@ -595,6 +595,8 @@ for l in IDIOMAS:
     grava(PASTA[l] + "index.html", pagina_inicial(l))
     grava(PASTA[l] + "privacidade.html", pagina_privacidade(l))
 grava("404.html", pagina_404())
+# AdMob: o app-ads.txt tem que ficar na raiz do domínio do site informado na Play Console.
+grava("app-ads.txt", "google.com, pub-3233907423613647, DIRECT, f08c47fec0942fa0\n")
 grava("robots.txt", f"User-agent: *\nAllow: /\nSitemap: {ENDERECO}sitemap.xml\n")
 urls = "".join(f"  <url><loc>{ENDERECO}{PASTA[l]}{c}</loc></url>\n" for l in IDIOMAS for c in ["", "privacidade.html"])
 grava("sitemap.xml", f'<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n{urls}</urlset>\n')
