@@ -53,7 +53,7 @@ T = {
     baixar_titulo="Baixe o Reflex",
     baixar_texto="Instale no celular e no aparelho onde você quer ver a tela. Os links sempre baixam a versão mais nova, e depois o Reflex se atualiza sozinho.",
     c_cel="Celular Android", c_cel_txt="O app que envia a tela. Também recebe a tela do PC.",
-    c_cel_play="Google Play", c_cel_apk="Baixar o APK", c_cel_apk_txt="O APK do site inclui o controle do celular pelo mouse e teclado do PC.",
+    c_cel_play="Google Play", c_cel_apk="Baixar o APK", c_cel_apk_txt="Instale pela Google Play para receber atualizações e poder assinar o Reflex Pro.",
     c_win="PC com Windows", c_win_txt="Recebe a tela do celular, grava, controla jogos e transmite o PC para o celular.",
     c_win_btn="Baixar Reflex-Setup.exe", c_win_nota="Instala sem senha de administrador.",
     c_tv="Fire TV e Android TV", c_tv_txt="Veja o celular na televisão. Funciona no Fire TV Stick e nas TVs com Android.",
@@ -64,7 +64,6 @@ T = {
     recursos=[
         ("radar", "Radar que acha tudo", "O celular encontra sozinho os PCs e TVs da sua rede. Também dá para conectar pelo QR code ou por um código."),
         ("som", "Imagem e som", "Vídeos, jogos e música tocam no PC ou na TV com o som do celular, a até 60 fps."),
-        ("mouse", "Controle pelo PC", "Use o mouse e o teclado do computador para mexer no celular. Disponível no APK do site."),
         ("receber", "O PC no celular", "No PC, clique em Transmitir este PC e veja o computador na tela do celular."),
         ("gravar", "Grave a tela", "Grave em vídeo MP4 o que aparece do celular, direto no PC. Atalho Ctrl+R."),
         ("jogo", "Modo Gamer", "Sem notificações, chamadas silenciadas, o menor atraso e teclas do PC mapeadas na tela do jogo."),
@@ -72,7 +71,7 @@ T = {
         ("cadeado", "Privado de verdade", "A imagem vai direto do celular para o PC dentro do seu Wi-Fi. Nada passa por servidores e nada é gravado fora dos seus aparelhos."),
     ],
     galeria_titulo="Veja como é",
-    galeria_alt=["Espelhe o celular no PC e na TV", "Toque no radar e pronto", "Veja a tela do PC no celular", "Modo Gamer", "Imagem nítida a 60 fps", "Reflex Pro"],
+    galeria_alt=["Reflex: espelhe a tela do celular", "Seu celular na tela do PC", "Toque no radar e pronto", "Nítido a 60 fps, até para jogar", "E o PC no celular, também", "Baixe grátis na Google Play"],
     usar_titulo="Comece em 3 passos",
     passos=[
         ("Instale nos dois aparelhos", "Baixe o Reflex no celular e no PC ou na TV. Na primeira vez no PC, permita o Reflex em <b>Redes privadas</b> quando o Windows perguntar."),
@@ -82,8 +81,7 @@ T = {
     inst_titulo="Como instalar",
     inst=[
         ("Celular", [
-            "Baixe pela <b>Google Play</b>, ou toque em <b>Baixar o APK</b> para a versão do site.",
-            "Se baixou o APK, abra o arquivo. Se o Android pedir, permita instalar apps desta fonte.",
+            "Toque em <b>Google Play</b> e instale o Reflex pela loja.",
             "Abra o Reflex e escolha o idioma.",
         ]),
         ("PC com Windows", [
@@ -102,7 +100,7 @@ T = {
     gratis="Grátis", gratis_preco="R$ 0", gratis_sub="para sempre",
     pro="Reflex Pro", pro_preco="R$ 9,90", pro_sub="por mês, ou R$ 80 por ano",
     pro_teste="7 dias grátis para testar",
-    lista_gratis=["HD 720p", "Imagem e som", "Controle pelo PC, TV e Modo Gamer", "Gravar a tela no PC", "Sem anúncios"],
+    lista_gratis=["HD 720p", "Imagem e som", "Espelhar na TV e Modo Gamer", "Gravar a tela no PC", "Sem anúncios"],
     lista_pro=["Tudo do plano grátis", "Full HD 1080p", "Qualidade Máxima, quase sem compressão", "60 fps", "Cancele quando quiser na Play Store"],
     pro_btn="Assinar no celular", pro_nota="A assinatura é feita no app do celular, na aba Pro, pelo Google Play. Preços no Brasil.",
     duv_titulo="Dúvidas frequentes",
@@ -111,7 +109,7 @@ T = {
         ("Preciso de cabo ou de internet?", "Não precisa de cabo. O celular e o PC (ou a TV) só precisam estar no mesmo Wi-Fi. A imagem vai direto de um aparelho para o outro, sem passar pela internet."),
         ("O Windows mostrou \"O Windows protegeu o computador\". É seguro?", "Sim. Esse aviso aparece para programas novos que ainda não têm muitos downloads. Clique em <b>Mais informações</b> e depois em <b>Executar assim mesmo</b>."),
         ("O PC não aparece no radar. O que eu faço?", "Confira se os dois estão no mesmo Wi-Fi (redes de convidados costumam bloquear). No PC, permita o Reflex em Redes privadas no Firewall do Windows. Se ainda assim não aparecer, use <b>Ler QR code</b> ou <b>Digitar código</b> no celular."),
-        ("Qual a diferença entre a Google Play e o APK do site?", "A versão da Google Play se atualiza pela loja. O APK do site inclui o controle do celular pelo mouse e teclado do PC e se atualiza sozinho. Não dá para ter os dois ao mesmo tempo: desinstale um antes de instalar o outro. Para assinar o Pro, use a versão da Google Play."),
+        ("Como eu assino o Reflex Pro?", "Instale o Reflex pela Google Play, abra a aba <b>Pro</b> no celular e escolha o plano mensal ou anual. A assinatura fica na sua conta Google e o PC e a TV recebem a qualidade Pro do celular conectado."),
         ("Quais aparelhos funcionam?", "Celulares com Android 10 ou mais novo, PCs com Windows 10 ou 11 de 64 bits, Fire TV Stick e TVs com Android TV."),
         ("A minha tela fica gravada em algum lugar?", "Não. Nada da sua tela é enviado para a internet, para nós ou para terceiros. Veja a <a href=\"privacidade.html\">Política de Privacidade</a>."),
     ],
@@ -136,7 +134,7 @@ T = {
     baixar_titulo="Download Reflex",
     baixar_texto="Install it on your phone and on the device where you want to see the screen. The links always download the newest version, and then Reflex updates itself.",
     c_cel="Android phone", c_cel_txt="The app that sends the screen. It also receives the PC screen.",
-    c_cel_play="Google Play", c_cel_apk="Download the APK", c_cel_apk_txt="The website APK includes controlling the phone with the PC mouse and keyboard.",
+    c_cel_play="Google Play", c_cel_apk="Download the APK", c_cel_apk_txt="Install from Google Play to get updates and to subscribe to Reflex Pro.",
     c_win="Windows PC", c_win_txt="Shows the phone screen, records it, controls games and casts the PC to the phone.",
     c_win_btn="Download Reflex-Setup.exe", c_win_nota="Installs without an administrator password.",
     c_tv="Fire TV and Android TV", c_tv_txt="See your phone on the TV. Works on Fire TV Stick and Android TVs.",
@@ -147,7 +145,6 @@ T = {
     recursos=[
         ("radar", "A radar that finds everything", "Your phone finds the PCs and TVs on your network by itself. You can also connect with a QR code or a code."),
         ("som", "Picture and sound", "Videos, games and music play on the PC or TV with your phone's sound, at up to 60 fps."),
-        ("mouse", "Control from the PC", "Use your computer's mouse and keyboard to use the phone. Available in the website APK."),
         ("receber", "Your PC on the phone", "On the PC, click Cast this PC and see your computer on the phone screen."),
         ("gravar", "Record the screen", "Record what the phone shows as an MP4 video, right on the PC. Shortcut Ctrl+R."),
         ("jogo", "Gamer mode", "No notifications, silenced calls, the lowest delay and PC keys mapped onto the game screen."),
@@ -155,7 +152,7 @@ T = {
         ("cadeado", "Truly private", "The picture goes straight from your phone to your PC inside your Wi-Fi. Nothing goes through servers and nothing is recorded outside your devices."),
     ],
     galeria_titulo="See what it looks like",
-    galeria_alt=["Mirror your phone to PC and TV", "Tap the radar and you're done", "See your PC screen on the phone", "Gamer mode", "Sharp picture at 60 fps", "Reflex Pro"],
+    galeria_alt=["Reflex: mirror your phone screen", "Your phone on your PC screen", "Tap the radar and you're done", "Sharp at 60 fps, even for gaming", "And your PC on your phone, too", "Get it free on Google Play"],
     usar_titulo="Start in 3 steps",
     passos=[
         ("Install on both devices", "Download Reflex on your phone and on your PC or TV. The first time on the PC, allow Reflex on <b>Private networks</b> when Windows asks."),
@@ -165,8 +162,7 @@ T = {
     inst_titulo="How to install",
     inst=[
         ("Phone", [
-            "Get it on <b>Google Play</b>, or tap <b>Download the APK</b> for the website version.",
-            "If you downloaded the APK, open the file. If Android asks, allow installing apps from this source.",
+            "Tap <b>Google Play</b> and install Reflex from the store.",
             "Open Reflex and choose your language.",
         ]),
         ("Windows PC", [
@@ -185,7 +181,7 @@ T = {
     gratis="Free", gratis_preco="Free", gratis_sub="forever",
     pro="Reflex Pro", pro_preco="Pro", pro_sub="monthly or yearly subscription",
     pro_teste="7-day free trial",
-    lista_gratis=["HD 720p", "Picture and sound", "PC control, TV and Gamer mode", "Record the screen on the PC", "No ads"],
+    lista_gratis=["HD 720p", "Picture and sound", "Mirror to TV and Gamer mode", "Record the screen on the PC", "No ads"],
     lista_pro=["Everything in the free plan", "Full HD 1080p", "Maximum quality, almost no compression", "60 fps", "Cancel anytime in the Play Store"],
     pro_btn="Subscribe on the phone", pro_nota="You subscribe in the phone app, on the Pro tab, through Google Play. The price for your country is shown there.",
     duv_titulo="Frequently asked questions",
@@ -194,7 +190,7 @@ T = {
         ("Do I need a cable or internet?", "No cable needed. The phone and the PC (or TV) just need to be on the same Wi-Fi. The picture goes straight from one device to the other, without going through the internet."),
         ("Windows showed \"Windows protected your PC\". Is it safe?", "Yes. This notice shows up for new programs that don't have many downloads yet. Click <b>More info</b> and then <b>Run anyway</b>."),
         ("The PC doesn't show up on the radar. What do I do?", "Check that both are on the same Wi-Fi (guest networks often block this). On the PC, allow Reflex on Private networks in Windows Firewall. If it still doesn't show up, connect with the QR code or the code option on the phone."),
-        ("What's the difference between Google Play and the website APK?", "The Google Play version updates through the store. The website APK includes controlling the phone with the PC mouse and keyboard and updates itself. You can't have both at once: uninstall one before installing the other. To subscribe to Pro, use the Google Play version."),
+        ("How do I subscribe to Reflex Pro?", "Install Reflex from Google Play, open the <b>Pro</b> tab on the phone and pick the monthly or yearly plan. The subscription stays in your Google account, and the PC and TV get Pro quality from the connected phone."),
         ("Which devices work?", "Phones with Android 10 or newer, 64-bit Windows 10 or 11 PCs, Fire TV Stick and Android TVs."),
         ("Is my screen recorded anywhere?", "No. Nothing from your screen is sent to the internet, to us or to third parties. See the <a href=\"privacidade.html\">Privacy Policy</a>."),
     ],
@@ -219,7 +215,7 @@ T = {
     baixar_titulo="Descarga Reflex",
     baixar_texto="Instálalo en el celular y en el dispositivo donde quieres ver la pantalla. Los enlaces siempre descargan la versión más nueva, y después Reflex se actualiza solo.",
     c_cel="Celular Android", c_cel_txt="La app que envía la pantalla. También recibe la pantalla de la PC.",
-    c_cel_play="Google Play", c_cel_apk="Descargar el APK", c_cel_apk_txt="El APK del sitio incluye el control del celular con el mouse y el teclado de la PC.",
+    c_cel_play="Google Play", c_cel_apk="Descargar el APK", c_cel_apk_txt="Instálalo desde Google Play para recibir actualizaciones y poder suscribirte a Reflex Pro.",
     c_win="PC con Windows", c_win_txt="Muestra la pantalla del celular, la graba, controla juegos y transmite la PC al celular.",
     c_win_btn="Descargar Reflex-Setup.exe", c_win_nota="Se instala sin contraseña de administrador.",
     c_tv="Fire TV y Android TV", c_tv_txt="Mira el celular en la televisión. Funciona en Fire TV Stick y en TV con Android.",
@@ -230,7 +226,6 @@ T = {
     recursos=[
         ("radar", "Un radar que lo encuentra todo", "El celular encuentra solo las PC y TV de tu red. También puedes conectar con un código QR o un código."),
         ("som", "Imagen y sonido", "Videos, juegos y música se reproducen en la PC o la TV con el sonido del celular, hasta 60 fps."),
-        ("mouse", "Control desde la PC", "Usa el mouse y el teclado de la computadora para manejar el celular. Disponible en el APK del sitio."),
         ("receber", "La PC en el celular", "En la PC, haz clic en Transmitir esta PC y mira la computadora en la pantalla del celular."),
         ("gravar", "Graba la pantalla", "Graba en video MP4 lo que muestra el celular, directo en la PC. Atajo Ctrl+R."),
         ("jogo", "Modo Gamer", "Sin notificaciones, llamadas silenciadas, el menor retraso y teclas de la PC asignadas en la pantalla del juego."),
@@ -238,7 +233,7 @@ T = {
         ("cadeado", "Privado de verdad", "La imagen va directo del celular a la PC dentro de tu Wi-Fi. Nada pasa por servidores y nada se graba fuera de tus dispositivos."),
     ],
     galeria_titulo="Mira cómo es",
-    galeria_alt=["Duplica el celular en la PC y la TV", "Toca el radar y listo", "Mira la pantalla de la PC en el celular", "Modo Gamer", "Imagen nítida a 60 fps", "Reflex Pro"],
+    galeria_alt=["Reflex: duplica la pantalla del celular", "Tu celular en la pantalla de la PC", "Toca el radar y listo", "Nítido a 60 fps, hasta para jugar", "Y la PC en el celular, también", "Descárgalo gratis en Google Play"],
     usar_titulo="Empieza en 3 pasos",
     passos=[
         ("Instala en los dos dispositivos", "Descarga Reflex en el celular y en la PC o la TV. La primera vez en la PC, permite Reflex en <b>Redes privadas</b> cuando Windows lo pregunte."),
@@ -248,8 +243,7 @@ T = {
     inst_titulo="Cómo instalar",
     inst=[
         ("Celular", [
-            "Descárgalo en <b>Google Play</b>, o toca <b>Descargar el APK</b> para la versión del sitio.",
-            "Si descargaste el APK, abre el archivo. Si Android lo pide, permite instalar apps de esta fuente.",
+            "Toca <b>Google Play</b> e instala Reflex desde la tienda.",
             "Abre Reflex y elige el idioma.",
         ]),
         ("PC con Windows", [
@@ -268,7 +262,7 @@ T = {
     gratis="Gratis", gratis_preco="Gratis", gratis_sub="para siempre",
     pro="Reflex Pro", pro_preco="Pro", pro_sub="suscripción mensual o anual",
     pro_teste="7 días gratis para probar",
-    lista_gratis=["HD 720p", "Imagen y sonido", "Control desde la PC, TV y Modo Gamer", "Grabar la pantalla en la PC", "Sin anuncios"],
+    lista_gratis=["HD 720p", "Imagen y sonido", "Duplicar en la TV y Modo Gamer", "Grabar la pantalla en la PC", "Sin anuncios"],
     lista_pro=["Todo lo del plan gratis", "Full HD 1080p", "Calidad Máxima, casi sin compresión", "60 fps", "Cancela cuando quieras en la Play Store"],
     pro_btn="Suscribirse en el celular", pro_nota="La suscripción se hace en la app del celular, en la pestaña Pro, con Google Play. Ahí ves el precio de tu país.",
     duv_titulo="Preguntas frecuentes",
@@ -277,7 +271,7 @@ T = {
         ("¿Necesito cable o internet?", "No necesitas cable. El celular y la PC (o la TV) solo deben estar en el mismo Wi-Fi. La imagen va directo de un dispositivo al otro, sin pasar por internet."),
         ("Windows mostró \"Windows protegió tu PC\". ¿Es seguro?", "Sí. Ese aviso aparece con programas nuevos que todavía no tienen muchas descargas. Haz clic en <b>Más información</b> y luego en <b>Ejecutar de todas formas</b>."),
         ("La PC no aparece en el radar. ¿Qué hago?", "Revisa que los dos estén en el mismo Wi-Fi (las redes de invitados suelen bloquearlo). En la PC, permite Reflex en Redes privadas en el Firewall de Windows. Si aún no aparece, usa <b>Escanear código QR</b> o <b>Escribir código</b> en el celular."),
-        ("¿Qué diferencia hay entre Google Play y el APK del sitio?", "La versión de Google Play se actualiza por la tienda. El APK del sitio incluye el control del celular con el mouse y el teclado de la PC y se actualiza solo. No puedes tener las dos a la vez: desinstala una antes de instalar la otra. Para suscribirte a Pro, usa la versión de Google Play."),
+        ("¿Cómo me suscribo a Reflex Pro?", "Instala Reflex desde Google Play, abre la pestaña <b>Pro</b> en el celular y elige el plan mensual o anual. La suscripción queda en tu cuenta de Google, y la PC y la TV reciben la calidad Pro del celular conectado."),
         ("¿Qué dispositivos funcionan?", "Celulares con Android 10 o más nuevo, PC con Windows 10 u 11 de 64 bits, Fire TV Stick y TV con Android TV."),
         ("¿Mi pantalla se graba en algún lugar?", "No. Nada de tu pantalla se envía a internet, a nosotros ni a terceros. Mira la <a href=\"privacidade.html\">Política de Privacidad</a>."),
     ],
@@ -434,7 +428,6 @@ def pagina_inicial(l):
         <p>{t['c_cel_txt']}</p>
         <p class="versao" data-versao="android">{t['versao']} {VER['android_versao']}</p>
         <a class="botao" href="{play}">{ic('play','ic pequeno')} {t['c_cel_play']}</a>
-        <a class="botao botao-contorno" href="{LINK['apk']}">{ic('baixar','ic pequeno')} {t['c_cel_apk']}</a>
         <p class="mini">{t['c_cel_apk_txt']}</p>
       </article>
       <article class="cartao" data-so="windows">
