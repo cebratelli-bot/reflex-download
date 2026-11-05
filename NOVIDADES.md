@@ -2,6 +2,11 @@
 
 O que mudou em cada versão. O Reflex mostra isto sozinho depois de cada atualização, e também em *Configurações > Novidades* no celular e no PC.
 
+## Versão 1.16.1 (05/11/2026)
+
+- PC: corrigidas as pequenas travadas no espelho.
+- Celular: quando o login com o Google não dá certo, o app agora mostra o motivo.
+
 ## Versão 1.16.0 (04/11/2026)
 
 - Conta Reflex: entre com a sua conta Google no celular e no PC, na aba Reflex Pro. Tela de login nova, com fundo animado.
